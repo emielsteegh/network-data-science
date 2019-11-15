@@ -10,9 +10,12 @@ analyse, explain, and discussion the results.
 
 
 --TODO--
-Give an explanation for all graphs
-Make code neat and commented - https://itnext.io/tips-for-writing-self-documenting-code-e54a15e9de2
-Fix part 3 of week 1
+Explain graph 2
+Comment ex. 2 code
+
+Do everything for ex 3
+
+Maybe make var names neater https://medium.com/@dasagrivamanu/python-naming-conventions-the-10-points-you-should-know-149a9aa9f8c7
 
 
 kusjes emiel
