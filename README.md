@@ -4,8 +4,8 @@ ___
 
 ### The learning objectives:
 
-| | |
-| ------ | -------------------------- |
+| When | What |
+| :----- | :------------------------- |
 | Week 1 | Graphs and Social Networks |
 | Week 2 | Information Networks |
 | Weeks 3 & 4 | Network Dynamics Population & Structural Models |
