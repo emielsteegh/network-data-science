@@ -4,8 +4,10 @@ ___
 
 ### The learning objectives:
 
-+ Week 1 : Graphs and Social Networks
-+ Week 2 : Information Networks
-+ Weeks 3 & 4 : Network Dynamics Population & Structural Models
-+ Weeks 5 - 7 : Theoretical weeks on game theory, matching markets, auctions and voting
-+ Final Project : Applying rich get richer theory to music data
+| | |
+| ------ | -------------------------- |
+| Week 1 | Graphs and Social Networks |
+| Week 2 | Information Networks |
+| Weeks 3 & 4 | Network Dynamics Population & Structural Models |
+| Weeks 5 - 7 | Theoretical weeks on game theory, matching markets, auctions and voting |
+| Final Project | Applying rich get richer theory to music data |
