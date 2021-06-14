@@ -1,6 +1,6 @@
 # A project exploring network data science.
 
-Built in Python 2.7 using jupyter notebooks. 
+Built in Python 2.7 Jupyter Notebooks 
 
 Created by Emiel Steegh and Freek Nijweide in 2020.
 ___
