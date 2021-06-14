@@ -1,13 +1,14 @@
-# Python Projects for the module Web Science.
+# A project exploring network data science.
 
+Built in Python 2.7 using jupyter notebooks.
+Created by Emiel Steegh and Freek Nijweide in 2020.
 ___
 
 ### The learning objectives:
 
-| When | What |
+| \# | What |
 | :----- | :------------------------- |
-| Week 1 | Graphs and Social Networks |
-| Week 2 | Information Networks |
-| Weeks 3 & 4 | Network Dynamics Population & Structural Models |
-| Weeks 5 - 7 | Theoretical weeks on game theory, matching markets, auctions and voting |
-| Final Project | Applying rich get richer theory to music data |
+| 01 | Graphs and Social Networks |
+| 02 | Information Networks |
+| 03 | Network Dynamics Population & Structural Models |
+| 04 | Applying rich get richer theory to music data |
