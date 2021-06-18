@@ -2,7 +2,7 @@
 
 Built in Python 2.7 Jupyter Notebooks 
 
-Created by Emiel Steegh and Freek Nijweide in 2020.
+Created by E.G.A.J. Steegh and F.P.J. Nijweide in 2020.
 ___
 
 ### The learning objectives:
